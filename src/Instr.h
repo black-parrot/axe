@@ -2,7 +2,7 @@
 #define _INSTR_H_
 
 #define MAX_THREADS    256
-#define MAX_ADDRS      256
+#define MAX_ADDRS      65536
 #define MAX_DATA       8388608
 
 typedef int InstrId;
